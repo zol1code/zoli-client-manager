@@ -1,4 +1,4 @@
-#Zoli Client Manager | Freelance Suite
+Zoli Client Manager | Freelance Suite
 
 A professional business management dashboard designed for freelancers and small digital agencies. This project is a core product of **Zoli Code**, focused on financial visibility and client management.
 
@@ -38,16 +38,4 @@ Features
 - **Financial Reporting:** A Python script (`generate_report.py`) that processes raw data into a clean business summary.
 
 ---
-
-How to Run
-
-### Web Dashboard
-Simply open the `index.html` file in any browser or visit the live link:
-> **[INSERT YOUR GITHUB PAGES LINK HERE]**
-
-### Python Report
-To see the business intelligence logic in action, run:
-```bash
-python generate_report.py
-
 
